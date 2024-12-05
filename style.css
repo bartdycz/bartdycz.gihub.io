@@ -6,7 +6,8 @@
 }
 
 .menu-item {
-  display: inline;
   float: left;
   color: white;
+  display: block;
+  padding: 8px;
 }
